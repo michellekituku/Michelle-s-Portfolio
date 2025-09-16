@@ -4,10 +4,6 @@ Welcome to my data portfolio! Here, I document a summary of projects I have done
 Click an item in the Table of Contents to jump to that section.
 
 ---
-
-## 📑 Table of Contents
-- [NLP Projects](https://github.com/michellekituku/Michelle-s-Portfolio#nlp-projects)
-- [Machine Learning](#machine-learning)
   
 ## 📑 Table of Contents
 - [NLP Projects](#-nlp-projects)
