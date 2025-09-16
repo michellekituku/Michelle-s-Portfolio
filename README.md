@@ -6,9 +6,7 @@ Click an item in the Table of Contents to jump to that section.
 ---
 
 ## 📑 Table of Contents
-- [NLP Projects](#nlp-projects)
-- [NLP Projects](https://github.com/michellekituku/portfolio#nlp-projects)
-
+- [NLP Projects](https://github.com/michellekituku/Michelle-s-Portfolio#nlp-projects)
 - [Machine Learning](#machine-learning)
   
 ---
