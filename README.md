@@ -16,7 +16,7 @@ Click an item in the Table of Contents to jump to that section.
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|----------------------|-----------|
 | 🌾 [PSA Translation — English→Swahili](https://github.com/michellekituku/PSA-Translation) | NLP | Built a MarianMT pipeline to translate agricultural PSAs to Swahili; fine-tuned on domain data. BLEU ≈ 61. | `transformers`, `torch`, `datasets`, `seaborn` |
-| 📝 [YouTube Comment Sentiment Analysis](https://github.com/YourUsername/Youtube-Sentiment) | NLP | Emotion & hate-speech detection on civic comments. | `nltk`, `sklearn`, `tensorflow` |
+|🔡 [Exploring Language Modeling with N-Gram Sizes & Smoothing](https://github.com/michellekituku/NGram-Language-Modeling) | NLP | Implemented n-gram language models (unigram, bigram) with Laplace, Good-Turing, and Kneser-Ney smoothing. Evaluated using cross-validation and perplexity. Visualized performance trade-offs across methods. | `nltk`, `pandas`, `numpy`, `matplotlib`, `seaborn` |
 
 ---
 
