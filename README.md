@@ -23,7 +23,7 @@ Click an item in the Table of Contents to jump to that section.
 ## 🤖 Machine Learning
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|----------------------|-----------|
-| 🚗 [Car Price Prediction](https://github.com/YourUsername/CarPricePrediction) | Regression | Predict car prices using regression models. | `sklearn`, `pandas` |
+| 🩺 [Breast Cancer Classification with Logistic Regression](https://github.com/michellekituku/Breast-Cancer-LogReg) | Classification | Built a logistic regression classifier on the Breast Cancer dataset. Compared effects of regularization (C) on accuracy and coefficients. Achieved >95% test accuracy. Visualized coefficient importance across features. | `scikit-learn`, `pandas`, `matplotlib`, `seaborn` |
 | 📈 [German Credit Risk Classification](https://github.com/YourUsername/CreditRisk) | Classification | Credit risk modeling using the German Credit dataset. | `sklearn`, `xgboost` |
 
 ---
