@@ -24,6 +24,6 @@ Click an item in the Table of Contents to jump to that section.
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|----------------------|-----------|
 | 🩺 [Breast Cancer Classification with Logistic Regression](https://github.com/michellekituku/Breast-Cancer-LogReg) | Classification | Built a logistic regression classifier on the Breast Cancer dataset. Compared effects of regularization (C) on accuracy and coefficients. Achieved >95% test accuracy. Visualized coefficient importance across features. | `scikit-learn`, `pandas`, `matplotlib`, `seaborn` |
-| 📈 [German Credit Risk Classification](https://github.com/YourUsername/CreditRisk) | Classification | Credit risk modeling using the German Credit dataset. | `sklearn`, `xgboost` |
+| 🏦 [Loan Approval Prediction](https://github.com/michellekituku/Loan-Approval-Prediction) | Classification | Built a classification model to predict whether a loan application will be approved based on applicant details. Compared Logistic Regression, Random Forest, and XGBoost with accuracy & ROC-AUC metrics. | `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn` |
 
 ---
