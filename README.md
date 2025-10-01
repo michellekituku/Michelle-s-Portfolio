@@ -8,6 +8,7 @@ Click an item in the Table of Contents to jump to that section.
 ## 📑 Table of Contents
 - [NLP Projects](#-nlp-projects)
 - [Machine Learning](#-machine-learning)
+- [Time Series](#-time-series)
 
   
 ---
@@ -27,3 +28,8 @@ Click an item in the Table of Contents to jump to that section.
 | 🏦 [Loan Approval Prediction](https://github.com/michellekituku/Loan-Approval-Prediction) | Classification | Built a classification model to predict whether a loan application will be approved based on applicant details. Compared Logistic Regression, Random Forest, and XGBoost with accuracy & ROC-AUC metrics. | `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn` |
 
 ---
+
+## 📈 Time Series
+| Project Link | Area | Project Description | Libraries |
+|--------------|------|----------------------|-----------|
+| 📊 [Retail Sales Forecasting](https://github.com/michellekituku/Retail-Sales-Forecasting) | Time Series Forecasting / Retail Analytics | Generated synthetic 2024 sales data based on 2023 data. Performed decomposition, stationarity testing, and forecasted daily sales using ARIMA, SARIMA, and Holt-Winters. Evaluated models with RMSE/MAE and visualized trends, seasonality, and forecasts. | `tidyverse`, `lubridate`, `forecast`, `tseries`, `ggplot2` |
