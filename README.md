@@ -8,6 +8,9 @@ Welcome to my data portfolio! Here, I document a summary of projects I have done
 - [Machine Learning](#-machine-learning)
 - [Time Series](#-time-series)
 - [Bayesian Inference](#-bayesian-inference)
+- [Business Intelligence](#-business-intelligence)
+- [Recommender Systems](#-recommender-systems)
+- [Deep Learning And Computer Vision](#-deep-learning-and-computer-vision)
 
   
 ---
