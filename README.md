@@ -1,8 +1,6 @@
 # Michelle's Portfolio
 Welcome to my data portfolio! Here, I document a summary of projects I have done.
 
-Click an item in the Table of Contents to jump to that section.
-
 ---
   
 ## 📑 Table of Contents
