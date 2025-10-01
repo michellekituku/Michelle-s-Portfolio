@@ -9,7 +9,7 @@ Click an item in the Table of Contents to jump to that section.
 - [Natural Language Processing](#-natural-language-processing)
 - [Machine Learning](#-machine-learning)
 - [Time Series](#-time-series)
-- [Bayesian-Inference](#-bayesian-inference)
+- [Bayesian Inference](#-bayesian-inference)
 
   
 ---
