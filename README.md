@@ -43,3 +43,11 @@ Welcome to my data portfolio! Here, I document a summary of projects I have done
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|-------------------|-----------|
 | 🌆 [Bayesian King County House Sales](https://github.com/michellekituku/Bayesian-Inference) | Bayesian Regression / Housing | Applied Bayesian linear regression to predict house prices using `sqft_living`, `bedrooms`, `bathrooms`, `grade`, and `condition`. Estimated posterior distributions, performed MCMC diagnostics, and generated 95% credible intervals for predictions. | `tidyverse`, `rstanarm`, `bayesplot`, `coda`, `readr` |
+
+---
+
+## 📊 Business Intelligence 
+
+| Project Link | Area | Project Description | Libraries |
+|--------------|------|-------------------|-----------|
+| 🏢 [BI Maturity & Dashboard for SME](https://github.com/yourusername/BI-Maturity-Dashboard-SME) | Business Intelligence / Dashboard | Assessed BI maturity and developed an interactive dashboard for a SME. Analyzed rent collection, occupancy, tenant behavior, complaints, and retention. Generated actionable insights to optimize revenue and improve services. | `tidyverse`, `lubridate`, `ggplot2`, `plotly`, `shiny`, `readr` |
