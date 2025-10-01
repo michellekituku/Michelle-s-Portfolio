@@ -6,14 +6,15 @@ Click an item in the Table of Contents to jump to that section.
 ---
   
 ## 📑 Table of Contents
-- [NLP Projects](#-nlp-projects)
+- [Natural Language Processing](#-natural-language-processing)
 - [Machine Learning](#-machine-learning)
 - [Time Series](#-time-series)
+- [Bayesian-Inference](#-bayesian-inference)
 
   
 ---
 
-## 🧠 NLP Projects
+## 🧠 Natural Language Processing
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|----------------------|-----------|
 | 🌾 [PSA Translation — English→Swahili](https://github.com/michellekituku/PSA-Translation) | NLP | Built a MarianMT pipeline to translate agricultural PSAs to Swahili; fine-tuned on domain data. BLEU ≈ 61. | `transformers`, `torch`, `datasets`, `seaborn` |
@@ -33,3 +34,11 @@ Click an item in the Table of Contents to jump to that section.
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|----------------------|-----------|
 | 📊 [Retail Sales Forecasting](https://github.com/michellekituku/Retail-Sales-Forecasting) | Time Series Forecasting / Retail Analytics | Generated synthetic 2024 sales data based on 2023 data. Performed decomposition, stationarity testing, and forecasted daily sales using ARIMA, SARIMA, and Holt-Winters. Evaluated models with RMSE/MAE and visualized trends, seasonality, and forecasts. | `tidyverse`, `lubridate`, `forecast`, `tseries`, `ggplot2` |
+
+---
+
+## 🤖 Bayesian Inference
+
+| Project Link | Area | Project Description | Libraries |
+|--------------|------|-------------------|-----------|
+| 🌆 [Bayesian King County House Sales](https://github.com/michellekituku/Bayesian-Inference) | Bayesian Regression / Housing | Applied Bayesian linear regression to predict house prices using `sqft_living`, `bedrooms`, `bathrooms`, `grade`, and `condition`. Estimated posterior distributions, performed MCMC diagnostics, and generated 95% credible intervals for predictions. | `tidyverse`, `rstanarm`, `bayesplot`, `coda`, `readr` |
